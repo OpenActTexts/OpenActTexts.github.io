@@ -9,10 +9,12 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 * A subset of the book will be available for offline reading in pdf and EPUB formats.
 * The online text will be available in multiple languages to promote access to a worldwide audience.
 
-To see our progress, a draft of a few chapters of the book is available at 
-*  [Online Version from R Bookdown](http://instruction.bus.wisc.edu/jfrees/UWCAELearn/LossDataAnalytics/index.html) 
-* [R Bookdown - pdf version](http://instruction.bus.wisc.edu/jfrees/UWCAELearn/LossDataAnalytics/LossDataAnalytics.pdf)
-* [R Bookdown - EPUB version](http://instruction.bus.wisc.edu/jfrees/UWCAELearn/LossDataAnalytics/LossDataAnalytics.epub)
+To see our progress, a draft of the book is available at 
+* [Online Version](https://ewfrees.github.io/Loss-Data-Analytics/index.html) 
+* [pdf version](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/Offline/LossDataAnalytics.pdf)
+* [EPUB version](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/Offline/LossDataAnalytics.epub)
+
+Source code is available at our [GitHub site](https://github.com/ewfrees/Loss-Data-Analytics).
 
 We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfrees/loss-data-analytics/).
 
