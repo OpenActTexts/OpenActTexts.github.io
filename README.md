@@ -20,9 +20,9 @@ We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfree
 
 # R Codes for Loss Data Analytics
 
-This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](http://instruction.bus.wisc.edu/jfrees/UWCAELearn/LossDataAnalyticsRcode/index.html)
+This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](https://ewfrees.github.io/LDARcode)
 
-Source code is available at our [GitHub site](https://github.com/ewfrees/LossDataAnalyticsRCode).
+Source code is available at our [GitHub site](https://github.com/ewfrees/LDARCode).
 
 # Overheads for Loss Data Analytics
 
