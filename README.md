@@ -10,21 +10,21 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 * The online text will be available in multiple languages to promote access to a worldwide audience.
 
 To see our progress, a draft of the book is available at 
-* [Online Version](https://ewfrees.github.io/Loss-Data-Analytics/index.html) 
-* [pdf version](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/Offline/LossDataAnalytics.pdf)
-* [EPUB version](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/Offline/LossDataAnalytics.epub)
+* [Online Version](https://OpenActTexts.github.io/Loss-Data-Analytics/index.html) 
+* [pdf version](https://OpenActTexts.com/ewfrees/Loss-Data-Analytics/tree/master/Offline/LossDataAnalytics.pdf)
+* [EPUB version](https://OpenActTexts.com/ewfrees/Loss-Data-Analytics/tree/master/Offline/LossDataAnalytics.epub)
 
-Source code is available at our [GitHub site](https://github.com/ewfrees/Loss-Data-Analytics).
+Source code is available at our [GitHub site](https://github.com/OpenActTexts/Loss-Data-Analytics).
 
-Prospective contributors should also check out our [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) 
+Prospective contributors should also check out our [Style Guide](https://OpenActTexts.github.io/StyleGuideLDA/index.html) 
 
 We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfrees/loss-data-analytics/).
 
 # R Codes for Loss Data Analytics
 
-This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](https://ewfrees.github.io/LDARcode)
+This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. To get an idea of what the files will generate for users, see the [Online Version from R Code Support](https://OpenActTexts.github.io/LDARcode)
 
-Source code is available at our [GitHub site](https://github.com/ewfrees/LDARCode).
+Source code is available at our [GitHub site](https://github.com/OpenActTexts/LDARCode).
 
 # Overheads for Loss Data Analytics
 
@@ -36,4 +36,4 @@ This site provides chapter summaries in the form of overheads to support the onl
 We are also starting to organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See our [GitHub Site](https://github.com/ewfrees/LifeCon).
 
 ## Your Help
-As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
+As described in our [License](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
