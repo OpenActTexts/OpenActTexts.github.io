@@ -35,3 +35,5 @@ We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfree
 
 ## Your Help
 As described in our [License](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
+
+<a href="https://github.com/OpenActTexts/Loss-Data-Analytics"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png" alt="Fork me on GitHub"></a>
