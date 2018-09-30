@@ -9,7 +9,7 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 * A subset of the book will be available for offline reading in pdf and EPUB formats.
 * The online text will be available in multiple languages to promote access to a worldwide audience.
 
-### Most current book dradt
+### Most current book draft
 To see our progress, a draft of the book is available at
 * [Online Version](https://OpenActTexts.github.io/Loss-Data-Analytics/index.html)
 * [pdf version](https://github.com/OpenActTexts/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.pdf)
