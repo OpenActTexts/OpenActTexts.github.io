@@ -16,7 +16,7 @@ To see our progress, a draft of the book is available at
 * [EPUB version](https://github.com/OpenActTexts/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.epub)
 
 ### Development Site
-* More recent developments of the book are available at our [Open Actuarial Textbooks Development Site](https://github.com/OpenActTexts/Loss-Data-Analytics).
+* More recent developments of the book are available at our [Open Actuarial Textbooks Development Site](https://ewfrees.github.io/).
 Prospective contributors should check out our [Style Guide](https://OpenActTexts.github.io/StyleGuideLDA/index.html)
 * Your contributions are very much welcomed!
 
