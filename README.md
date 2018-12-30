@@ -22,10 +22,10 @@ An up to date version of the book is available in three formats:
 * [Data](https://github.com/OpenActTexts/LDARcode/tree/master/Data) are also available. Click individual files and hit the "Raw" button to download the raw data, not an html version.
 * Source code is available at our [GitHub site](https://github.com/OpenActTexts/LDARCode).
 
-### Development Site
+## Development Site
 Another site is available for authors, reviewers, and others interested in the project development, our [Open Actuarial Textbooks Development Site](https://ewfrees.github.io/). This site contains:
 
-* A [Style Guide](https://OpenActTexts.github.io/StyleGuideLDA/index.html) for prospective contributors
+* A [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) for prospective contributors
 * This site provides chapter summaries in the form of overheads to support the online text **Loss Data Analytics**. Overheads in .pdf format and source code is available at a development [GitHub site](https://github.com/ewfrees/LossDataAnalyticsOverheads).
 * We are also starting to organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See the development [GitHub Site](https://github.com/ewfrees/LifeCon).
 * We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfrees/loss-data-analytics/).
