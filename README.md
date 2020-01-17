@@ -4,10 +4,10 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 ## Loss Data Analytics
 
 ### Book Description
-*Loss Data Analytics* will be an interactive, online, freely available text.
-* The online version will contain many interactive objects (quizzes, computer demonstrations, interactive graphs, video, and the like) to promote deeper learning.
-* A subset of the book will be available for offline reading in pdf and EPUB formats.
-* The online text will be available in multiple languages to promote access to a worldwide audience.
+*Loss Data Analytics* is an interactive, online, freely available text.
+* The online version contains many interactive objects (quizzes, computer demonstrations, interactive graphs, video, and the like) to promote deeper learning.
+* A subset of the book is available for offline reading in pdf and EPUB formats.
+* One day, we hope that the online text will be available in multiple languages to promote access to a worldwide audience.
 
 ### An Open Book
 An up to date version of the book is available in three formats:
