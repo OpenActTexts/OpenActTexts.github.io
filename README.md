@@ -11,9 +11,9 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 
 ### An Open Book
 An up to date version of the book is available in three formats:
-* [Online Version](https://OpenActTexts.github.io/Loss-Data-Analytics/index.html)
-* [pdf version](https://github.com/OpenActTexts/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.pdf)
-* [EPUB version](https://github.com/OpenActTexts/Loss-Data-Analytics/blob/master/Offline/LossDataAnalytics.epub)
+* View the [online Version](https://OpenActTexts.github.io/Loss-Data-Analytics/index.html) in *.html* format - this is the **interactive** version.
+* Download a [pdf version](https://github.com/OpenActTexts/Loss-Data-Analytics/raw/master/Offline/LossDataAnalytics.pdf)
+* Download a [EPUB version](https://github.com/OpenActTexts/Loss-Data-Analytics/raw/master/Offline/LossDataAnalytics.epub)
 
 [Archived versions](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/Offline) are also available in pdf format.
 
