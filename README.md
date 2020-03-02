@@ -13,9 +13,8 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 An up to date version of the book is available in three formats, html, pdf, and epub.
 * View the [online version](https://OpenActTexts.github.io/Loss-Data-Analytics/index.html) in *.html* format - this is the **interactive** version.
 
-You can also access **pdf** and **epub** (current and older) versions of the text in our [Offline versions of the text](https://ewfrees.github.io/Loss-Data-Analytics/DownloadOffline.html).
+You can download **pdf** and **epub** (current and older) versions of the text in our [Offline versions of the text](https://ewfrees.github.io/Loss-Data-Analytics/DownloadOffline.html).
 
-[Archived versions](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/Offline) are also available in pdf format.
 
 ### R Codes for Loss Data Analytics
 * You can get practice executing *R* code at our [Online Version R Code Site](https://OpenActTexts.github.io/LDARcode). This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. 
