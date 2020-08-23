@@ -7,8 +7,8 @@ The goal is to have the actuarial community author our textbooks in a collaborat
 *Loss Data Analytics* is an interactive, online, freely available text.
 * The online version contains many interactive objects (quizzes, computer demonstrations, interactive graphs, video, and the like) to promote deeper learning.
 * A subset of the book is available for offline reading in pdf and EPUB formats.
-* One day, we hope that the online text will be available in multiple languages to promote access to a worldwide audience. (Hablas Español? For spanish-speaking students, six chapters have been translated by the actuarial group at the Universitat de Barcelona and are available at
-https://ewfrees.github.io/Loss-Data-Analytics-Spanish/)
+* One day, we hope that the online text will be available in multiple languages to promote access to a worldwide audience. (Hablas Español? For spanish-speaking students, [six chapters have been translated](https://ewfrees.github.io/Loss-Data-Analytics-Spanish/) by the actuarial group at the Universitat de Barcelona.)
+
 
 ### An Open Book
 An up to date version of the book is available in three formats, html, pdf, and epub.
