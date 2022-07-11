@@ -29,14 +29,12 @@ For the book, and many of the supporting projects, we now provide [Google Analyt
 * Source code is available at our [GitHub site](https://github.com/OpenActTexts/LDARCode).
 
 ## Development Site
-Another site is available for authors, reviewers, and others interested in the project development, our [Open Actuarial Textbooks Development Site](https://ewfrees.github.io/). This site contains:
+Another site is available for authors, reviewers, and others interested in the project development, our [Open Actuarial Textbooks Development Site](https://OpenActTextDev.github.io/). 
+# Your Help
+As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. If you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>. Much of our efforts are currently being organized the umbrella of the [Astin Academy](https://www.actuaries.org/IAA/IAA/Sections/ASTIN_NEW/Our_Activities.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&hkey=b94800cc-f36d-4bb0-a49c-0d0b1d761d7f&New_ContentCollectionOrganizerCommon=5#New_ContentCollectionOrganizerCommon).
 
-* A [Style Guide](https://ewfrees.github.io/StyleGuideLDA/index.html) for prospective contributors
-* This site provides chapter summaries in the form of overheads to support the online text **Loss Data Analytics**. Overheads in .pdf format and source code is available at a development [GitHub site](https://github.com/ewfrees/LossDataAnalyticsOverheads).
-* We are also starting to organize several sets of notes for *Life Contingencies*, also known as *Actuarial Mathematics* and *Long Term Actuarial Mathematics*. See the development [GitHub Site](https://openacttextdev.github.io/LifeCon/index.html).
-* We are also experimenting with a [WordPress site](http://www.ssc.wisc.edu/~jfrees/loss-data-analytics/).
-* Your contributions are very much welcomed!
+**Mission of ASTIN Academy**
 
-## Your Help
-As described in our [License](https://github.com/OpenActTexts/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. Especially at this early stage of the project, if you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>.
+*The mission of the ASTIN Academy is to provide high quality free educational materials in non-life insurance to actuarial students across the world. The Academy is committed to open course development under Creative Commons license and seeks innovation in teaching methodologies and application of technology. Let’s build the future of actuarial education together.*
+
 
