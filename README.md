@@ -20,7 +20,7 @@ You can download **pdf** and **epub** (current and older) versions of the text i
 Version 1.0 of an innovative [Short Course](https://openacttexts.github.io/LDACourse1/) is now available. This online tutorial contains 34 short videos that review the basic learning objectives of the first five chapters of *Loss Data Analytics.* Throughout the short course, users can sharpen their understanding of *Loss Data Analytics* by practicing on exercise tutorials (52 in total) that implement *Loss Data Analytics* concepts using the *R* statistical language.
 
 ### Usage Data
-For the book, and many of the supporting projects, we now provide [Google Analytics Usage Data](https://ewfrees.github.io/Loss-Data-Analytics-Ed1/GoogleAnalyticsUsage.html). These statistics help to demonstrate the impact of this project on actuarial education.
+For the book, and many of the supporting projects, we now provide [Google Analytics Usage Data](https://openacttextdev.github.io/LDA_Ed2/GoogleAnalyticsUsage2023.html). These statistics help to demonstrate the impact of this project on actuarial education.
 
 ### R Codes for Loss Data Analytics
 * As another method of learning, you can also get practice executing *R* code at our [Online Version R Code Site](https://OpenActTexts.github.io/LDARcode). This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. 
