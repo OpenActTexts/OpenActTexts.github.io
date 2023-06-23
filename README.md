@@ -14,7 +14,7 @@ The project goal is to have the actuarial community author our textbooks in a co
 An up to date version of the book is available in three formats, html, pdf, and epub.
 * View the [online version](https://OpenActTexts.github.io/Loss-Data-Analytics/index.html) in *.html* format - this is the **interactive** version.
 
-You can download **pdf** and **epub** (current and older) versions of the text in our [Offline versions of the text](https://ewfrees.github.io/Loss-Data-Analytics/DownloadOffline.html).
+You can download **pdf** and **epub** (current and older) versions of the text in our [Offline versions of the text](https://openacttexts.github.io/Loss-Data-Analytics/DownloadOffline.html).
 
 ### Short Course
 Version 1.0 of an innovative [Short Course](https://openacttexts.github.io/LDACourse1/) is now available. This online tutorial contains 34 short videos that review the basic learning objectives of the first five chapters of *Loss Data Analytics.* Throughout the short course, users can sharpen their understanding of *Loss Data Analytics* by practicing on exercise tutorials (52 in total) that implement *Loss Data Analytics* concepts using the *R* statistical language.
