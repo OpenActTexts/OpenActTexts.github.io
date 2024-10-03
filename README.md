@@ -10,17 +10,19 @@ The project goal is to have the actuarial community author our textbooks in a co
 * A subset of the book is available for offline reading in pdf format.
 * One day, we hope that the online text will be available in multiple languages to promote access to a worldwide audience. (¿Habla Español? For spanish-speaking students, [the book has translated](https://openacttexts.github.io/LDASpanish/), primarily by the actuarial group at the Universitat de Barcelona.)
 
-### An Open Book
-An up to date version of the book is available in three formats, html, pdf, and epub.
+### The Second Edition
+Released in October, 2024, the second edition of *Loss Data Analytics* is available in two formats, html and pdf.
 * View the [online version](https://OpenActTexts.github.io/LDAVer2/index.html) in *.html* format - this is the **interactive** version.
 
-You can download **pdf** and **epub** (current and older) versions of the text in our [Offline versions of the text](https://openacttexts.github.io/LDAVer2/DownloadOffline2024.html).
+You can download **pdf** (current and older) versions of the text in our [Offline versions of the text](https://openacttexts.github.io/LDAVer2/DownloadOffline2024.html).
+
+The First Edition of the book is also available [online version](https://OpenActTexts.github.io/Loss-Data-Analytics/index.html).
 
 ### Short Course
 Version 1.0 of an innovative [Short Course](https://openacttexts.github.io/LDACourse1/) is now available. This online tutorial contains 34 short videos that review the basic learning objectives of the first five chapters of *Loss Data Analytics.* Throughout the short course, users can sharpen their understanding of *Loss Data Analytics* by practicing on exercise tutorials (52 in total) that implement *Loss Data Analytics* concepts using the *R* statistical language.
 
 ### Usage Data
-For the book, and many of the supporting projects, we now provide [Google Analytics Usage Data](https://openacttextdev.github.io/LDA_Ed2/GoogleAnalyticsUsage2023.html). These statistics help to demonstrate the impact of this project on actuarial education.
+For the book, and many of the supporting projects, we now provide [Google Analytics Usage Data](https://openacttexts.github.io/LDAVer2/GoogleAnalyticsUsage2024.html). These statistics help to demonstrate the impact of this project on actuarial education.
 
 ### R Codes for Loss Data Analytics
 * As another method of learning, you can also get practice executing *R* code at our [Online Version R Code Site](https://OpenActTexts.github.io/LDARcode). This site provides files that generate *R* codes to support the online text **Loss Data Analytics**. 
