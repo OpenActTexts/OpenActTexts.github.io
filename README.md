@@ -37,7 +37,7 @@ Another site is available for authors, reviewers, and others interested in the p
 ***
 
 # Your Help
-As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. If you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>. Much of our efforts are currently being organized the umbrella of the [Astin Academy](https://www.actuaries.org/IAA/IAA/Sections/ASTIN_NEW/Our_Activities.aspx?WebsiteKey=ff59269c-4928-4369-a169-03e74a6bd8ca&hkey=b94800cc-f36d-4bb0-a49c-0d0b1d761d7f&New_ContentCollectionOrganizerCommon=5#New_ContentCollectionOrganizerCommon).
+As described in our [License](https://github.com/ewfrees/Loss-Data-Analytics/tree/master/GettingStarted/LICENSE.md), anyone can use these files. If you want to help and would like more info, please write Jed Frees <jfrees@bus.wisc.edu>. Much of our efforts are currently being organized the umbrella of the [Astin Academy](https://actuaries.org/sections/astin/astin-chapters-academy/).
 
 **Mission of ASTIN Academy**
 
