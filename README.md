@@ -2,6 +2,10 @@
 
 The project goal is to have the actuarial community author our textbooks in a collaborative fashion. *GitHub* provides a natural development environment to achieve this goal. See the [Open Actuarial Textbooks Project Site](https://sites.google.com/a/wisc.edu/loss-data-analytics/) for more information about this project.
 
+## Open Actuarial Science Educational Resources on the Web
+
+[This project](https://openacttexts.github.io/LDAVer2/ASTINFreeResouces.html) is designed to support actuarial education by bringing together a curated collection of freely available resources, including books, lecture notes, tutorials, datasets, videos, and other educational materials relevant to actuarial science. Feedback welcome!
+
 ## Loss Data Analytics
 
 ### Book Description
