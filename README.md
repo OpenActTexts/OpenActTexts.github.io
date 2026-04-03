@@ -4,7 +4,7 @@ The project goal is to have the actuarial community author our textbooks in a co
 
 ## Open Actuarial Science Educational Resources on the Web
 
-[This project](https://openacttexts.github.io/LDAVer2/ASTINFreeResouces.html) is designed to support actuarial education by bringing together a curated collection of freely available resources, including books, lecture notes, tutorials, datasets, videos, and other educational materials relevant to actuarial science. Feedback welcome!
+[This project](https://openacttexts.github.io/LDAVer2/ASTINFreeResources.html) is designed to support actuarial education by bringing together a curated collection of freely available resources, including books, lecture notes, tutorials, datasets, videos, and other educational materials relevant to actuarial science. Feedback welcome!
 
 ## Loss Data Analytics
 
